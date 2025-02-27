@@ -8,3 +8,4 @@ transformers
 pypdf
 unstructured
 accelerate
+langchain-community
